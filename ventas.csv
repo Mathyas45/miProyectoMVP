@@ -1,0 +1,1061 @@
+fecha,producto_id,cantidad,stock,precio_unitario,tienda_id
+2023-01-01,Arroz Costeño 1kg,37,29,6.43,1
+2023-01-08,Arroz Costeño 1kg,24,29,10.34,2
+2023-01-15,Arroz Costeño 1kg,37,29,24.34,2
+2023-01-22,Arroz Costeño 1kg,44,29,24.83,1
+2023-01-29,Arroz Costeño 1kg,29,29,12.5,1
+2023-02-05,Arroz Costeño 1kg,33,29,4.03,2
+2023-02-12,Arroz Costeño 1kg,31,29,20.27,1
+2023-02-19,Arroz Costeño 1kg,32,29,17.97,1
+2023-02-26,Arroz Costeño 1kg,29,29,18.05,1
+2023-03-05,Arroz Costeño 1kg,36,29,21.33,1
+2023-03-12,Arroz Costeño 1kg,42,29,17.58,2
+2023-03-19,Arroz Costeño 1kg,32,29,15.49,1
+2023-03-26,Arroz Costeño 1kg,44,29,16.15,2
+2023-04-02,Arroz Costeño 1kg,30,29,14.46,2
+2023-04-09,Arroz Costeño 1kg,30,29,8.97,1
+2023-04-16,Arroz Costeño 1kg,35,29,9.52,1
+2023-04-23,Arroz Costeño 1kg,38,29,3.12,1
+2023-04-30,Arroz Costeño 1kg,27,29,20.38,1
+2023-05-07,Arroz Costeño 1kg,23,29,5.55,1
+2023-05-14,Arroz Costeño 1kg,40,29,5.1,1
+2023-05-21,Arroz Costeño 1kg,30,29,19.05,2
+2023-05-28,Arroz Costeño 1kg,29,29,11.42,1
+2023-06-04,Arroz Costeño 1kg,37,29,15.35,1
+2023-06-11,Arroz Costeño 1kg,29,29,18.63,2
+2023-06-18,Arroz Costeño 1kg,30,29,22.97,1
+2023-06-25,Arroz Costeño 1kg,35,29,7.47,1
+2023-07-02,Arroz Costeño 1kg,23,29,6.55,2
+2023-07-09,Arroz Costeño 1kg,35,29,5.32,2
+2023-07-16,Arroz Costeño 1kg,39,29,22.64,1
+2023-07-23,Arroz Costeño 1kg,30,29,10.84,2
+2023-07-30,Arroz Costeño 1kg,25,29,12.4,2
+2023-08-06,Arroz Costeño 1kg,30,29,6.62,1
+2023-08-13,Arroz Costeño 1kg,32,29,5.64,2
+2023-08-20,Arroz Costeño 1kg,28,29,7.81,2
+2023-08-27,Arroz Costeño 1kg,37,29,24.38,2
+2023-09-03,Arroz Costeño 1kg,28,29,18.67,1
+2023-09-10,Arroz Costeño 1kg,29,29,16.41,2
+2023-09-17,Arroz Costeño 1kg,31,29,10.59,1
+2023-09-24,Arroz Costeño 1kg,28,29,13.77,2
+2023-10-01,Arroz Costeño 1kg,34,29,4.78,2
+2023-10-08,Arroz Costeño 1kg,28,29,11.09,2
+2023-10-15,Arroz Costeño 1kg,26,29,18.31,1
+2023-10-22,Arroz Costeño 1kg,34,29,3.36,1
+2023-10-29,Arroz Costeño 1kg,39,29,5.12,1
+2023-11-05,Arroz Costeño 1kg,36,29,23.61,1
+2023-11-12,Arroz Costeño 1kg,36,29,7.6,1
+2023-11-19,Arroz Costeño 1kg,41,29,17.52,2
+2023-11-26,Arroz Costeño 1kg,41,29,9.14,1
+2023-12-03,Arroz Costeño 1kg,41,29,17.12,1
+2023-12-10,Arroz Costeño 1kg,44,29,17.72,2
+2023-12-17,Arroz Costeño 1kg,36,29,6.54,2
+2023-12-24,Arroz Costeño 1kg,33,29,24.88,2
+2023-12-31,Arroz Costeño 1kg,37,29,10.16,2
+2023-01-01,Aceite Primor 1L,14,21,14.94,1
+2023-01-08,Aceite Primor 1L,11,21,8.37,2
+2023-01-15,Aceite Primor 1L,17,21,10.7,1
+2023-01-22,Aceite Primor 1L,13,21,7.3,1
+2023-01-29,Aceite Primor 1L,12,21,19.91,2
+2023-02-05,Aceite Primor 1L,11,21,23.42,1
+2023-02-12,Aceite Primor 1L,12,21,24.57,2
+2023-02-19,Aceite Primor 1L,10,21,21.73,2
+2023-02-26,Aceite Primor 1L,12,21,11.68,2
+2023-03-05,Aceite Primor 1L,14,21,5.14,2
+2023-03-12,Aceite Primor 1L,14,21,8.59,2
+2023-03-19,Aceite Primor 1L,14,21,10.91,1
+2023-03-26,Aceite Primor 1L,10,21,8.64,2
+2023-04-02,Aceite Primor 1L,18,21,14.03,1
+2023-04-09,Aceite Primor 1L,8,21,11.73,2
+2023-04-16,Aceite Primor 1L,17,21,11.26,2
+2023-04-23,Aceite Primor 1L,11,21,10.22,2
+2023-04-30,Aceite Primor 1L,12,21,16.0,2
+2023-05-07,Aceite Primor 1L,9,21,9.67,1
+2023-05-14,Aceite Primor 1L,7,21,19.94,2
+2023-05-21,Aceite Primor 1L,21,21,21.52,2
+2023-05-28,Aceite Primor 1L,12,21,17.02,2
+2023-06-04,Aceite Primor 1L,14,21,11.77,1
+2023-06-11,Aceite Primor 1L,11,21,3.56,1
+2023-06-18,Aceite Primor 1L,6,21,18.15,1
+2023-06-25,Aceite Primor 1L,8,21,8.51,2
+2023-07-02,Aceite Primor 1L,6,21,23.56,1
+2023-07-09,Aceite Primor 1L,13,21,12.23,2
+2023-07-16,Aceite Primor 1L,13,21,5.64,1
+2023-07-23,Aceite Primor 1L,7,21,3.9,2
+2023-07-30,Aceite Primor 1L,15,21,13.22,1
+2023-08-06,Aceite Primor 1L,11,21,16.97,2
+2023-08-13,Aceite Primor 1L,9,21,23.54,2
+2023-08-20,Aceite Primor 1L,16,21,6.58,2
+2023-08-27,Aceite Primor 1L,16,21,20.62,2
+2023-09-03,Aceite Primor 1L,11,21,13.08,1
+2023-09-10,Aceite Primor 1L,16,21,21.05,2
+2023-09-17,Aceite Primor 1L,17,21,4.53,1
+2023-09-24,Aceite Primor 1L,11,21,16.6,1
+2023-10-01,Aceite Primor 1L,6,21,21.59,2
+2023-10-08,Aceite Primor 1L,10,21,13.91,2
+2023-10-15,Aceite Primor 1L,14,21,22.3,2
+2023-10-22,Aceite Primor 1L,12,21,15.51,1
+2023-10-29,Aceite Primor 1L,11,21,10.5,2
+2023-11-05,Aceite Primor 1L,13,21,17.96,1
+2023-11-12,Aceite Primor 1L,15,21,22.86,2
+2023-11-19,Aceite Primor 1L,12,21,9.55,1
+2023-11-26,Aceite Primor 1L,11,21,22.92,2
+2023-12-03,Aceite Primor 1L,14,21,13.85,2
+2023-12-10,Aceite Primor 1L,11,21,10.23,1
+2023-12-17,Aceite Primor 1L,15,21,23.48,2
+2023-12-24,Aceite Primor 1L,5,21,12.71,1
+2023-12-31,Aceite Primor 1L,12,21,24.31,1
+2023-01-01,Leche Gloria Lata,15,72,4.85,1
+2023-01-08,Leche Gloria Lata,11,72,22.62,2
+2023-01-15,Leche Gloria Lata,8,72,24.71,2
+2023-01-22,Leche Gloria Lata,11,72,16.02,2
+2023-01-29,Leche Gloria Lata,13,72,20.1,2
+2023-02-05,Leche Gloria Lata,16,72,10.27,2
+2023-02-12,Leche Gloria Lata,14,72,13.31,2
+2023-02-19,Leche Gloria Lata,16,72,11.8,2
+2023-02-26,Leche Gloria Lata,7,72,24.32,2
+2023-03-05,Leche Gloria Lata,10,72,9.48,1
+2023-03-12,Leche Gloria Lata,15,72,22.83,1
+2023-03-19,Leche Gloria Lata,6,72,5.35,1
+2023-03-26,Leche Gloria Lata,11,72,13.2,2
+2023-04-02,Leche Gloria Lata,11,72,10.93,2
+2023-04-09,Leche Gloria Lata,14,72,20.9,2
+2023-04-16,Leche Gloria Lata,11,72,4.68,2
+2023-04-23,Leche Gloria Lata,22,72,16.5,2
+2023-04-30,Leche Gloria Lata,8,72,15.13,1
+2023-05-07,Leche Gloria Lata,9,72,11.38,2
+2023-05-14,Leche Gloria Lata,18,72,4.4,1
+2023-05-21,Leche Gloria Lata,13,72,4.24,2
+2023-05-28,Leche Gloria Lata,16,72,19.5,1
+2023-06-04,Leche Gloria Lata,15,72,23.78,2
+2023-06-11,Leche Gloria Lata,13,72,7.51,1
+2023-06-18,Leche Gloria Lata,11,72,16.6,2
+2023-06-25,Leche Gloria Lata,11,72,13.96,2
+2023-07-02,Leche Gloria Lata,17,72,21.75,2
+2023-07-09,Leche Gloria Lata,25,72,20.42,1
+2023-07-16,Leche Gloria Lata,9,72,19.61,1
+2023-07-23,Leche Gloria Lata,20,72,24.57,2
+2023-07-30,Leche Gloria Lata,15,72,12.62,1
+2023-08-06,Leche Gloria Lata,17,72,12.92,1
+2023-08-13,Leche Gloria Lata,13,72,21.97,1
+2023-08-20,Leche Gloria Lata,18,72,21.53,1
+2023-08-27,Leche Gloria Lata,11,72,24.56,1
+2023-09-03,Leche Gloria Lata,12,72,15.75,1
+2023-09-10,Leche Gloria Lata,7,72,5.82,1
+2023-09-17,Leche Gloria Lata,13,72,6.96,2
+2023-09-24,Leche Gloria Lata,12,72,13.43,1
+2023-10-01,Leche Gloria Lata,11,72,10.59,2
+2023-10-08,Leche Gloria Lata,10,72,5.65,1
+2023-10-15,Leche Gloria Lata,12,72,5.83,2
+2023-10-22,Leche Gloria Lata,16,72,20.59,1
+2023-10-29,Leche Gloria Lata,16,72,6.45,2
+2023-11-05,Leche Gloria Lata,7,72,20.74,1
+2023-11-12,Leche Gloria Lata,14,72,8.19,2
+2023-11-19,Leche Gloria Lata,12,72,19.44,2
+2023-11-26,Leche Gloria Lata,9,72,18.12,1
+2023-12-03,Leche Gloria Lata,14,72,5.36,2
+2023-12-10,Leche Gloria Lata,12,72,5.31,1
+2023-12-17,Leche Gloria Lata,13,72,10.09,1
+2023-12-24,Leche Gloria Lata,8,72,8.13,1
+2023-12-31,Leche Gloria Lata,15,72,20.36,1
+2023-01-01,Azúcar Rubia 1kg,22,114,19.4,1
+2023-01-08,Azúcar Rubia 1kg,23,114,10.42,2
+2023-01-15,Azúcar Rubia 1kg,24,114,10.83,1
+2023-01-22,Azúcar Rubia 1kg,20,114,21.72,2
+2023-01-29,Azúcar Rubia 1kg,19,114,22.73,1
+2023-02-05,Azúcar Rubia 1kg,12,114,18.33,2
+2023-02-12,Azúcar Rubia 1kg,15,114,24.33,2
+2023-02-19,Azúcar Rubia 1kg,22,114,21.06,2
+2023-02-26,Azúcar Rubia 1kg,23,114,9.16,2
+2023-03-05,Azúcar Rubia 1kg,25,114,19.2,2
+2023-03-12,Azúcar Rubia 1kg,15,114,9.35,1
+2023-03-19,Azúcar Rubia 1kg,22,114,10.05,1
+2023-03-26,Azúcar Rubia 1kg,12,114,5.96,1
+2023-04-02,Azúcar Rubia 1kg,23,114,18.06,2
+2023-04-09,Azúcar Rubia 1kg,18,114,19.73,1
+2023-04-16,Azúcar Rubia 1kg,22,114,20.47,1
+2023-04-23,Azúcar Rubia 1kg,35,114,19.08,1
+2023-04-30,Azúcar Rubia 1kg,17,114,23.38,2
+2023-05-07,Azúcar Rubia 1kg,23,114,6.07,1
+2023-05-14,Azúcar Rubia 1kg,27,114,8.19,2
+2023-05-21,Azúcar Rubia 1kg,22,114,22.3,1
+2023-05-28,Azúcar Rubia 1kg,25,114,18.7,2
+2023-06-04,Azúcar Rubia 1kg,21,114,19.45,1
+2023-06-11,Azúcar Rubia 1kg,23,114,11.61,2
+2023-06-18,Azúcar Rubia 1kg,23,114,16.73,1
+2023-06-25,Azúcar Rubia 1kg,21,114,19.07,2
+2023-07-02,Azúcar Rubia 1kg,16,114,16.64,2
+2023-07-09,Azúcar Rubia 1kg,26,114,24.95,1
+2023-07-16,Azúcar Rubia 1kg,19,114,19.37,2
+2023-07-23,Azúcar Rubia 1kg,17,114,13.87,2
+2023-07-30,Azúcar Rubia 1kg,20,114,5.43,2
+2023-08-06,Azúcar Rubia 1kg,21,114,14.05,2
+2023-08-13,Azúcar Rubia 1kg,16,114,18.89,2
+2023-08-20,Azúcar Rubia 1kg,23,114,16.18,2
+2023-08-27,Azúcar Rubia 1kg,23,114,13.16,2
+2023-09-03,Azúcar Rubia 1kg,16,114,8.63,2
+2023-09-10,Azúcar Rubia 1kg,23,114,23.29,2
+2023-09-17,Azúcar Rubia 1kg,24,114,11.24,1
+2023-09-24,Azúcar Rubia 1kg,21,114,23.56,2
+2023-10-01,Azúcar Rubia 1kg,30,114,8.19,2
+2023-10-08,Azúcar Rubia 1kg,27,114,23.26,1
+2023-10-15,Azúcar Rubia 1kg,19,114,16.37,1
+2023-10-22,Azúcar Rubia 1kg,12,114,20.66,1
+2023-10-29,Azúcar Rubia 1kg,23,114,12.12,2
+2023-11-05,Azúcar Rubia 1kg,30,114,10.63,2
+2023-11-12,Azúcar Rubia 1kg,30,114,3.72,1
+2023-11-19,Azúcar Rubia 1kg,16,114,13.96,2
+2023-11-26,Azúcar Rubia 1kg,26,114,7.84,2
+2023-12-03,Azúcar Rubia 1kg,24,114,24.14,1
+2023-12-10,Azúcar Rubia 1kg,23,114,14.77,2
+2023-12-17,Azúcar Rubia 1kg,22,114,4.48,1
+2023-12-24,Azúcar Rubia 1kg,21,114,10.69,2
+2023-12-31,Azúcar Rubia 1kg,17,114,13.39,2
+2023-01-01,Detergente Bolívar 1kg,20,32,14.61,2
+2023-01-08,Detergente Bolívar 1kg,22,32,15.31,1
+2023-01-15,Detergente Bolívar 1kg,16,32,4.66,1
+2023-01-22,Detergente Bolívar 1kg,21,32,17.17,2
+2023-01-29,Detergente Bolívar 1kg,22,32,8.59,1
+2023-02-05,Detergente Bolívar 1kg,25,32,5.29,1
+2023-02-12,Detergente Bolívar 1kg,24,32,15.25,2
+2023-02-19,Detergente Bolívar 1kg,16,32,18.89,2
+2023-02-26,Detergente Bolívar 1kg,33,32,11.94,1
+2023-03-05,Detergente Bolívar 1kg,30,32,4.88,1
+2023-03-12,Detergente Bolívar 1kg,29,32,22.28,1
+2023-03-19,Detergente Bolívar 1kg,22,32,20.98,2
+2023-03-26,Detergente Bolívar 1kg,21,32,10.99,1
+2023-04-02,Detergente Bolívar 1kg,19,32,12.01,2
+2023-04-09,Detergente Bolívar 1kg,21,32,7.83,2
+2023-04-16,Detergente Bolívar 1kg,27,32,22.11,2
+2023-04-23,Detergente Bolívar 1kg,18,32,14.27,1
+2023-04-30,Detergente Bolívar 1kg,24,32,8.67,2
+2023-05-07,Detergente Bolívar 1kg,25,32,5.91,1
+2023-05-14,Detergente Bolívar 1kg,18,32,3.4,2
+2023-05-21,Detergente Bolívar 1kg,23,32,13.96,2
+2023-05-28,Detergente Bolívar 1kg,24,32,21.25,1
+2023-06-04,Detergente Bolívar 1kg,16,32,8.8,1
+2023-06-11,Detergente Bolívar 1kg,29,32,16.21,1
+2023-06-18,Detergente Bolívar 1kg,23,32,21.44,1
+2023-06-25,Detergente Bolívar 1kg,21,32,4.03,2
+2023-07-02,Detergente Bolívar 1kg,35,32,4.99,1
+2023-07-09,Detergente Bolívar 1kg,19,32,9.35,2
+2023-07-16,Detergente Bolívar 1kg,31,32,16.43,2
+2023-07-23,Detergente Bolívar 1kg,23,32,23.61,1
+2023-07-30,Detergente Bolívar 1kg,23,32,14.88,1
+2023-08-06,Detergente Bolívar 1kg,24,32,13.92,1
+2023-08-13,Detergente Bolívar 1kg,17,32,13.43,1
+2023-08-20,Detergente Bolívar 1kg,23,32,12.57,1
+2023-08-27,Detergente Bolívar 1kg,14,32,3.05,1
+2023-09-03,Detergente Bolívar 1kg,20,32,10.94,2
+2023-09-10,Detergente Bolívar 1kg,27,32,14.47,2
+2023-09-17,Detergente Bolívar 1kg,24,32,19.11,1
+2023-09-24,Detergente Bolívar 1kg,27,32,17.02,2
+2023-10-01,Detergente Bolívar 1kg,19,32,7.87,2
+2023-10-08,Detergente Bolívar 1kg,23,32,5.65,1
+2023-10-15,Detergente Bolívar 1kg,20,32,24.36,1
+2023-10-22,Detergente Bolívar 1kg,13,32,14.49,1
+2023-10-29,Detergente Bolívar 1kg,19,32,4.69,1
+2023-11-05,Detergente Bolívar 1kg,23,32,11.9,1
+2023-11-12,Detergente Bolívar 1kg,20,32,20.4,1
+2023-11-19,Detergente Bolívar 1kg,27,32,12.39,2
+2023-11-26,Detergente Bolívar 1kg,19,32,22.14,2
+2023-12-03,Detergente Bolívar 1kg,21,32,4.54,2
+2023-12-10,Detergente Bolívar 1kg,21,32,11.84,1
+2023-12-17,Detergente Bolívar 1kg,23,32,8.98,1
+2023-12-24,Detergente Bolívar 1kg,27,32,12.27,1
+2023-12-31,Detergente Bolívar 1kg,26,32,13.28,2
+2023-01-01,Atún Florida,38,82,9.1,1
+2023-01-08,Atún Florida,32,82,7.8,2
+2023-01-15,Atún Florida,40,82,15.95,1
+2023-01-22,Atún Florida,33,82,6.67,2
+2023-01-29,Atún Florida,23,82,21.43,2
+2023-02-05,Atún Florida,36,82,8.07,2
+2023-02-12,Atún Florida,32,82,24.06,2
+2023-02-19,Atún Florida,31,82,24.32,1
+2023-02-26,Atún Florida,34,82,14.55,1
+2023-03-05,Atún Florida,32,82,18.31,2
+2023-03-12,Atún Florida,43,82,16.7,1
+2023-03-19,Atún Florida,35,82,15.76,2
+2023-03-26,Atún Florida,33,82,9.01,1
+2023-04-02,Atún Florida,41,82,17.42,1
+2023-04-09,Atún Florida,38,82,8.56,2
+2023-04-16,Atún Florida,30,82,13.91,2
+2023-04-23,Atún Florida,49,82,22.68,1
+2023-04-30,Atún Florida,41,82,13.57,1
+2023-05-07,Atún Florida,43,82,17.57,2
+2023-05-14,Atún Florida,35,82,22.33,1
+2023-05-21,Atún Florida,42,82,6.46,2
+2023-05-28,Atún Florida,37,82,16.61,2
+2023-06-04,Atún Florida,49,82,22.34,2
+2023-06-11,Atún Florida,26,82,19.36,1
+2023-06-18,Atún Florida,39,82,7.25,1
+2023-06-25,Atún Florida,36,82,16.95,2
+2023-07-02,Atún Florida,40,82,9.23,1
+2023-07-09,Atún Florida,31,82,23.5,1
+2023-07-16,Atún Florida,39,82,19.96,2
+2023-07-23,Atún Florida,30,82,4.48,2
+2023-07-30,Atún Florida,33,82,4.64,2
+2023-08-06,Atún Florida,26,82,3.54,1
+2023-08-13,Atún Florida,40,82,21.01,1
+2023-08-20,Atún Florida,37,82,9.02,1
+2023-08-27,Atún Florida,46,82,21.79,1
+2023-09-03,Atún Florida,40,82,7.86,2
+2023-09-10,Atún Florida,39,82,5.89,1
+2023-09-17,Atún Florida,47,82,12.51,1
+2023-09-24,Atún Florida,43,82,24.22,1
+2023-10-01,Atún Florida,32,82,8.06,1
+2023-10-08,Atún Florida,38,82,13.37,1
+2023-10-15,Atún Florida,51,82,22.11,1
+2023-10-22,Atún Florida,27,82,14.67,1
+2023-10-29,Atún Florida,36,82,3.72,2
+2023-11-05,Atún Florida,51,82,13.17,2
+2023-11-12,Atún Florida,26,82,18.08,2
+2023-11-19,Atún Florida,35,82,6.54,2
+2023-11-26,Atún Florida,35,82,20.55,1
+2023-12-03,Atún Florida,33,82,11.7,1
+2023-12-10,Atún Florida,36,82,18.29,1
+2023-12-17,Atún Florida,38,82,6.21,2
+2023-12-24,Atún Florida,34,82,18.45,2
+2023-12-31,Atún Florida,23,82,22.42,2
+2023-01-01,Galletas Casino,26,91,5.92,1
+2023-01-08,Galletas Casino,31,91,21.07,2
+2023-01-15,Galletas Casino,30,91,17.0,1
+2023-01-22,Galletas Casino,46,91,16.57,1
+2023-01-29,Galletas Casino,38,91,22.16,2
+2023-02-05,Galletas Casino,39,91,16.47,1
+2023-02-12,Galletas Casino,38,91,12.95,1
+2023-02-19,Galletas Casino,22,91,12.65,2
+2023-02-26,Galletas Casino,25,91,6.51,1
+2023-03-05,Galletas Casino,39,91,13.34,1
+2023-03-12,Galletas Casino,31,91,17.49,1
+2023-03-19,Galletas Casino,30,91,17.37,1
+2023-03-26,Galletas Casino,40,91,17.97,1
+2023-04-02,Galletas Casino,35,91,21.49,1
+2023-04-09,Galletas Casino,45,91,19.34,2
+2023-04-16,Galletas Casino,39,91,19.89,2
+2023-04-23,Galletas Casino,38,91,18.96,2
+2023-04-30,Galletas Casino,39,91,20.45,1
+2023-05-07,Galletas Casino,33,91,23.07,2
+2023-05-14,Galletas Casino,35,91,21.39,1
+2023-05-21,Galletas Casino,29,91,23.0,1
+2023-05-28,Galletas Casino,39,91,14.28,1
+2023-06-04,Galletas Casino,44,91,8.44,2
+2023-06-11,Galletas Casino,35,91,15.75,2
+2023-06-18,Galletas Casino,39,91,11.6,1
+2023-06-25,Galletas Casino,35,91,3.2,1
+2023-07-02,Galletas Casino,42,91,24.34,1
+2023-07-09,Galletas Casino,32,91,12.72,2
+2023-07-16,Galletas Casino,37,91,21.24,1
+2023-07-23,Galletas Casino,36,91,23.87,1
+2023-07-30,Galletas Casino,30,91,3.81,1
+2023-08-06,Galletas Casino,34,91,20.2,2
+2023-08-13,Galletas Casino,43,91,22.1,2
+2023-08-20,Galletas Casino,38,91,24.71,1
+2023-08-27,Galletas Casino,37,91,3.87,1
+2023-09-03,Galletas Casino,32,91,4.95,1
+2023-09-10,Galletas Casino,37,91,6.26,1
+2023-09-17,Galletas Casino,37,91,3.38,1
+2023-09-24,Galletas Casino,39,91,13.0,1
+2023-10-01,Galletas Casino,37,91,14.71,1
+2023-10-08,Galletas Casino,41,91,17.82,2
+2023-10-15,Galletas Casino,31,91,6.44,2
+2023-10-22,Galletas Casino,45,91,18.24,1
+2023-10-29,Galletas Casino,42,91,20.5,2
+2023-11-05,Galletas Casino,40,91,17.5,1
+2023-11-12,Galletas Casino,40,91,10.67,2
+2023-11-19,Galletas Casino,45,91,15.47,1
+2023-11-26,Galletas Casino,28,91,19.83,2
+2023-12-03,Galletas Casino,40,91,19.77,1
+2023-12-10,Galletas Casino,34,91,11.26,2
+2023-12-17,Galletas Casino,38,91,10.14,2
+2023-12-24,Galletas Casino,39,91,11.37,1
+2023-12-31,Galletas Casino,36,91,11.21,2
+2023-01-01,Fideos Don Vittorio,32,25,16.63,2
+2023-01-08,Fideos Don Vittorio,30,25,23.93,2
+2023-01-15,Fideos Don Vittorio,30,25,10.51,2
+2023-01-22,Fideos Don Vittorio,23,25,8.41,2
+2023-01-29,Fideos Don Vittorio,32,25,20.89,2
+2023-02-05,Fideos Don Vittorio,34,25,21.09,1
+2023-02-12,Fideos Don Vittorio,38,25,23.39,1
+2023-02-19,Fideos Don Vittorio,25,25,7.28,2
+2023-02-26,Fideos Don Vittorio,30,25,9.27,1
+2023-03-05,Fideos Don Vittorio,40,25,15.78,2
+2023-03-12,Fideos Don Vittorio,32,25,9.0,2
+2023-03-19,Fideos Don Vittorio,36,25,5.71,2
+2023-03-26,Fideos Don Vittorio,24,25,18.6,2
+2023-04-02,Fideos Don Vittorio,35,25,23.19,2
+2023-04-09,Fideos Don Vittorio,30,25,15.1,2
+2023-04-16,Fideos Don Vittorio,30,25,3.06,2
+2023-04-23,Fideos Don Vittorio,25,25,16.44,2
+2023-04-30,Fideos Don Vittorio,28,25,19.94,1
+2023-05-07,Fideos Don Vittorio,25,25,9.05,1
+2023-05-14,Fideos Don Vittorio,37,25,20.81,1
+2023-05-21,Fideos Don Vittorio,32,25,15.91,1
+2023-05-28,Fideos Don Vittorio,29,25,6.93,1
+2023-06-04,Fideos Don Vittorio,32,25,15.03,2
+2023-06-11,Fideos Don Vittorio,26,25,4.29,1
+2023-06-18,Fideos Don Vittorio,33,25,12.42,1
+2023-06-25,Fideos Don Vittorio,34,25,10.5,2
+2023-07-02,Fideos Don Vittorio,22,25,15.72,1
+2023-07-09,Fideos Don Vittorio,35,25,17.2,2
+2023-07-16,Fideos Don Vittorio,24,25,7.99,1
+2023-07-23,Fideos Don Vittorio,32,25,21.3,2
+2023-07-30,Fideos Don Vittorio,35,25,14.88,2
+2023-08-06,Fideos Don Vittorio,31,25,8.08,2
+2023-08-13,Fideos Don Vittorio,27,25,24.87,2
+2023-08-20,Fideos Don Vittorio,29,25,15.77,2
+2023-08-27,Fideos Don Vittorio,43,25,18.18,1
+2023-09-03,Fideos Don Vittorio,24,25,12.3,1
+2023-09-10,Fideos Don Vittorio,34,25,17.63,2
+2023-09-17,Fideos Don Vittorio,30,25,5.64,1
+2023-09-24,Fideos Don Vittorio,40,25,21.52,1
+2023-10-01,Fideos Don Vittorio,21,25,20.33,2
+2023-10-08,Fideos Don Vittorio,23,25,20.2,2
+2023-10-15,Fideos Don Vittorio,19,25,8.0,1
+2023-10-22,Fideos Don Vittorio,28,25,23.61,1
+2023-10-29,Fideos Don Vittorio,30,25,9.15,2
+2023-11-05,Fideos Don Vittorio,32,25,23.23,1
+2023-11-12,Fideos Don Vittorio,31,25,11.6,2
+2023-11-19,Fideos Don Vittorio,40,25,20.98,1
+2023-11-26,Fideos Don Vittorio,33,25,18.87,1
+2023-12-03,Fideos Don Vittorio,35,25,4.78,1
+2023-12-10,Fideos Don Vittorio,31,25,15.65,1
+2023-12-17,Fideos Don Vittorio,30,25,19.83,1
+2023-12-24,Fideos Don Vittorio,27,25,21.15,1
+2023-12-31,Fideos Don Vittorio,28,25,3.57,1
+2023-01-01,Papel Higiénico Elite,13,82,23.6,2
+2023-01-08,Papel Higiénico Elite,18,82,17.1,1
+2023-01-15,Papel Higiénico Elite,17,82,15.42,2
+2023-01-22,Papel Higiénico Elite,18,82,24.89,1
+2023-01-29,Papel Higiénico Elite,21,82,12.47,1
+2023-02-05,Papel Higiénico Elite,13,82,9.67,1
+2023-02-12,Papel Higiénico Elite,14,82,16.6,2
+2023-02-19,Papel Higiénico Elite,20,82,16.73,2
+2023-02-26,Papel Higiénico Elite,24,82,20.43,1
+2023-03-05,Papel Higiénico Elite,18,82,11.09,2
+2023-03-12,Papel Higiénico Elite,19,82,11.52,1
+2023-03-19,Papel Higiénico Elite,19,82,8.72,2
+2023-03-26,Papel Higiénico Elite,21,82,16.62,1
+2023-04-02,Papel Higiénico Elite,30,82,5.41,2
+2023-04-09,Papel Higiénico Elite,21,82,8.85,1
+2023-04-16,Papel Higiénico Elite,19,82,10.14,2
+2023-04-23,Papel Higiénico Elite,21,82,16.51,1
+2023-04-30,Papel Higiénico Elite,18,82,22.63,1
+2023-05-07,Papel Higiénico Elite,12,82,23.74,2
+2023-05-14,Papel Higiénico Elite,18,82,21.5,2
+2023-05-21,Papel Higiénico Elite,16,82,21.15,1
+2023-05-28,Papel Higiénico Elite,21,82,4.47,2
+2023-06-04,Papel Higiénico Elite,25,82,24.74,1
+2023-06-11,Papel Higiénico Elite,21,82,4.87,1
+2023-06-18,Papel Higiénico Elite,21,82,5.32,1
+2023-06-25,Papel Higiénico Elite,29,82,10.77,2
+2023-07-02,Papel Higiénico Elite,17,82,15.09,2
+2023-07-09,Papel Higiénico Elite,23,82,3.46,2
+2023-07-16,Papel Higiénico Elite,19,82,20.21,2
+2023-07-23,Papel Higiénico Elite,21,82,7.53,1
+2023-07-30,Papel Higiénico Elite,16,82,4.52,1
+2023-08-06,Papel Higiénico Elite,19,82,24.31,1
+2023-08-13,Papel Higiénico Elite,13,82,5.51,1
+2023-08-20,Papel Higiénico Elite,20,82,20.86,2
+2023-08-27,Papel Higiénico Elite,14,82,5.44,2
+2023-09-03,Papel Higiénico Elite,15,82,12.51,2
+2023-09-10,Papel Higiénico Elite,17,82,9.02,2
+2023-09-17,Papel Higiénico Elite,13,82,22.51,2
+2023-09-24,Papel Higiénico Elite,16,82,8.69,1
+2023-10-01,Papel Higiénico Elite,15,82,13.13,2
+2023-10-08,Papel Higiénico Elite,22,82,6.97,2
+2023-10-15,Papel Higiénico Elite,14,82,24.66,2
+2023-10-22,Papel Higiénico Elite,19,82,5.37,1
+2023-10-29,Papel Higiénico Elite,15,82,21.5,1
+2023-11-05,Papel Higiénico Elite,18,82,19.36,1
+2023-11-12,Papel Higiénico Elite,16,82,18.16,1
+2023-11-19,Papel Higiénico Elite,20,82,12.54,2
+2023-11-26,Papel Higiénico Elite,18,82,8.43,1
+2023-12-03,Papel Higiénico Elite,25,82,7.27,2
+2023-12-10,Papel Higiénico Elite,23,82,15.21,2
+2023-12-17,Papel Higiénico Elite,24,82,18.13,2
+2023-12-24,Papel Higiénico Elite,23,82,3.12,2
+2023-12-31,Papel Higiénico Elite,23,82,19.64,1
+2023-01-01,Jabón Bolívar,10,70,11.48,2
+2023-01-08,Jabón Bolívar,11,70,12.08,2
+2023-01-15,Jabón Bolívar,6,70,6.67,2
+2023-01-22,Jabón Bolívar,13,70,15.94,2
+2023-01-29,Jabón Bolívar,10,70,5.29,2
+2023-02-05,Jabón Bolívar,11,70,16.28,2
+2023-02-12,Jabón Bolívar,11,70,3.5,1
+2023-02-19,Jabón Bolívar,10,70,4.29,1
+2023-02-26,Jabón Bolívar,7,70,14.45,1
+2023-03-05,Jabón Bolívar,6,70,12.55,2
+2023-03-12,Jabón Bolívar,9,70,20.63,1
+2023-03-19,Jabón Bolívar,11,70,17.0,2
+2023-03-26,Jabón Bolívar,7,70,24.55,1
+2023-04-02,Jabón Bolívar,14,70,14.4,1
+2023-04-09,Jabón Bolívar,13,70,21.76,2
+2023-04-16,Jabón Bolívar,7,70,13.08,1
+2023-04-23,Jabón Bolívar,12,70,4.1,1
+2023-04-30,Jabón Bolívar,10,70,19.05,2
+2023-05-07,Jabón Bolívar,3,70,5.89,1
+2023-05-14,Jabón Bolívar,17,70,4.26,2
+2023-05-21,Jabón Bolívar,8,70,24.45,2
+2023-05-28,Jabón Bolívar,13,70,20.09,2
+2023-06-04,Jabón Bolívar,11,70,9.93,1
+2023-06-11,Jabón Bolívar,18,70,23.61,2
+2023-06-18,Jabón Bolívar,13,70,16.74,1
+2023-06-25,Jabón Bolívar,11,70,15.44,1
+2023-07-02,Jabón Bolívar,19,70,3.48,1
+2023-07-09,Jabón Bolívar,7,70,21.71,1
+2023-07-16,Jabón Bolívar,7,70,14.94,1
+2023-07-23,Jabón Bolívar,12,70,4.8,2
+2023-07-30,Jabón Bolívar,14,70,6.1,2
+2023-08-06,Jabón Bolívar,10,70,17.32,2
+2023-08-13,Jabón Bolívar,8,70,5.46,1
+2023-08-20,Jabón Bolívar,10,70,20.3,2
+2023-08-27,Jabón Bolívar,8,70,14.99,2
+2023-09-03,Jabón Bolívar,13,70,7.51,1
+2023-09-10,Jabón Bolívar,12,70,8.62,1
+2023-09-17,Jabón Bolívar,13,70,4.43,2
+2023-09-24,Jabón Bolívar,8,70,11.6,1
+2023-10-01,Jabón Bolívar,5,70,21.09,2
+2023-10-08,Jabón Bolívar,5,70,7.3,2
+2023-10-15,Jabón Bolívar,10,70,20.44,2
+2023-10-22,Jabón Bolívar,8,70,17.14,1
+2023-10-29,Jabón Bolívar,15,70,6.48,2
+2023-11-05,Jabón Bolívar,10,70,16.5,1
+2023-11-12,Jabón Bolívar,15,70,24.64,1
+2023-11-19,Jabón Bolívar,11,70,11.0,2
+2023-11-26,Jabón Bolívar,11,70,12.69,2
+2023-12-03,Jabón Bolívar,10,70,18.95,2
+2023-12-10,Jabón Bolívar,9,70,3.28,1
+2023-12-17,Jabón Bolívar,5,70,21.11,2
+2023-12-24,Jabón Bolívar,7,70,21.02,2
+2023-12-31,Jabón Bolívar,11,70,8.6,2
+2023-01-01,Cereal Angel,5,90,6.12,1
+2023-01-08,Cereal Angel,9,90,19.26,2
+2023-01-15,Cereal Angel,5,90,21.41,1
+2023-01-22,Cereal Angel,5,90,19.79,1
+2023-01-29,Cereal Angel,12,90,22.02,2
+2023-02-05,Cereal Angel,4,90,12.27,2
+2023-02-12,Cereal Angel,7,90,24.18,1
+2023-02-19,Cereal Angel,7,90,8.79,1
+2023-02-26,Cereal Angel,4,90,9.6,2
+2023-03-05,Cereal Angel,10,90,12.44,1
+2023-03-12,Cereal Angel,7,90,23.01,2
+2023-03-19,Cereal Angel,5,90,23.03,2
+2023-03-26,Cereal Angel,10,90,11.46,1
+2023-04-02,Cereal Angel,8,90,3.87,2
+2023-04-09,Cereal Angel,4,90,13.6,2
+2023-04-16,Cereal Angel,9,90,13.18,1
+2023-04-23,Cereal Angel,7,90,10.59,1
+2023-04-30,Cereal Angel,3,90,12.91,1
+2023-05-07,Cereal Angel,11,90,17.0,1
+2023-05-14,Cereal Angel,8,90,16.12,2
+2023-05-21,Cereal Angel,6,90,10.96,1
+2023-05-28,Cereal Angel,4,90,6.78,2
+2023-06-04,Cereal Angel,4,90,3.26,2
+2023-06-11,Cereal Angel,7,90,20.97,2
+2023-06-18,Cereal Angel,13,90,15.81,2
+2023-06-25,Cereal Angel,5,90,17.21,1
+2023-07-02,Cereal Angel,4,90,17.01,1
+2023-07-09,Cereal Angel,9,90,6.68,2
+2023-07-16,Cereal Angel,5,90,3.68,2
+2023-07-23,Cereal Angel,5,90,21.38,1
+2023-07-30,Cereal Angel,12,90,15.18,2
+2023-08-06,Cereal Angel,7,90,17.9,1
+2023-08-13,Cereal Angel,8,90,24.86,2
+2023-08-20,Cereal Angel,9,90,16.05,2
+2023-08-27,Cereal Angel,8,90,23.77,1
+2023-09-03,Cereal Angel,8,90,12.71,1
+2023-09-10,Cereal Angel,11,90,21.79,1
+2023-09-17,Cereal Angel,5,90,24.37,1
+2023-09-24,Cereal Angel,6,90,9.59,2
+2023-10-01,Cereal Angel,9,90,3.97,2
+2023-10-08,Cereal Angel,10,90,4.71,2
+2023-10-15,Cereal Angel,6,90,3.13,1
+2023-10-22,Cereal Angel,6,90,4.6,1
+2023-10-29,Cereal Angel,6,90,3.48,1
+2023-11-05,Cereal Angel,9,90,12.89,2
+2023-11-12,Cereal Angel,8,90,5.64,1
+2023-11-19,Cereal Angel,6,90,19.47,1
+2023-11-26,Cereal Angel,8,90,23.69,2
+2023-12-03,Cereal Angel,5,90,20.36,1
+2023-12-10,Cereal Angel,6,90,15.42,2
+2023-12-17,Cereal Angel,3,90,18.69,1
+2023-12-24,Cereal Angel,6,90,16.96,1
+2023-12-31,Cereal Angel,6,90,11.11,2
+2023-01-01,Coca-Cola 500ml,7,119,12.15,2
+2023-01-08,Coca-Cola 500ml,8,119,13.39,2
+2023-01-15,Coca-Cola 500ml,12,119,19.59,1
+2023-01-22,Coca-Cola 500ml,9,119,17.34,2
+2023-01-29,Coca-Cola 500ml,11,119,4.88,1
+2023-02-05,Coca-Cola 500ml,10,119,5.45,2
+2023-02-12,Coca-Cola 500ml,11,119,18.14,1
+2023-02-19,Coca-Cola 500ml,10,119,3.43,2
+2023-02-26,Coca-Cola 500ml,18,119,19.2,2
+2023-03-05,Coca-Cola 500ml,11,119,3.22,1
+2023-03-12,Coca-Cola 500ml,16,119,11.75,1
+2023-03-19,Coca-Cola 500ml,9,119,20.0,2
+2023-03-26,Coca-Cola 500ml,7,119,15.66,2
+2023-04-02,Coca-Cola 500ml,6,119,3.39,1
+2023-04-09,Coca-Cola 500ml,9,119,7.91,1
+2023-04-16,Coca-Cola 500ml,10,119,9.6,2
+2023-04-23,Coca-Cola 500ml,11,119,17.86,2
+2023-04-30,Coca-Cola 500ml,14,119,11.76,2
+2023-05-07,Coca-Cola 500ml,16,119,23.62,2
+2023-05-14,Coca-Cola 500ml,11,119,13.42,2
+2023-05-21,Coca-Cola 500ml,8,119,17.32,1
+2023-05-28,Coca-Cola 500ml,20,119,11.04,1
+2023-06-04,Coca-Cola 500ml,13,119,22.71,1
+2023-06-11,Coca-Cola 500ml,14,119,6.23,1
+2023-06-18,Coca-Cola 500ml,11,119,6.61,1
+2023-06-25,Coca-Cola 500ml,8,119,23.18,2
+2023-07-02,Coca-Cola 500ml,13,119,4.33,2
+2023-07-09,Coca-Cola 500ml,4,119,3.17,2
+2023-07-16,Coca-Cola 500ml,8,119,12.14,2
+2023-07-23,Coca-Cola 500ml,11,119,14.01,1
+2023-07-30,Coca-Cola 500ml,19,119,23.43,2
+2023-08-06,Coca-Cola 500ml,11,119,12.52,2
+2023-08-13,Coca-Cola 500ml,11,119,17.84,1
+2023-08-20,Coca-Cola 500ml,15,119,24.13,2
+2023-08-27,Coca-Cola 500ml,12,119,11.95,1
+2023-09-03,Coca-Cola 500ml,8,119,16.06,1
+2023-09-10,Coca-Cola 500ml,8,119,3.31,2
+2023-09-17,Coca-Cola 500ml,14,119,13.49,2
+2023-09-24,Coca-Cola 500ml,9,119,13.08,1
+2023-10-01,Coca-Cola 500ml,7,119,19.98,2
+2023-10-08,Coca-Cola 500ml,12,119,20.26,2
+2023-10-15,Coca-Cola 500ml,17,119,16.96,2
+2023-10-22,Coca-Cola 500ml,14,119,14.32,2
+2023-10-29,Coca-Cola 500ml,6,119,3.64,1
+2023-11-05,Coca-Cola 500ml,16,119,22.83,2
+2023-11-12,Coca-Cola 500ml,10,119,24.85,2
+2023-11-19,Coca-Cola 500ml,11,119,16.98,2
+2023-11-26,Coca-Cola 500ml,18,119,10.86,2
+2023-12-03,Coca-Cola 500ml,12,119,21.64,1
+2023-12-10,Coca-Cola 500ml,6,119,7.86,1
+2023-12-17,Coca-Cola 500ml,7,119,7.95,2
+2023-12-24,Coca-Cola 500ml,12,119,15.76,1
+2023-12-31,Coca-Cola 500ml,9,119,6.16,1
+2023-01-01,Inca Kola 500ml,16,40,20.17,2
+2023-01-08,Inca Kola 500ml,16,40,7.5,2
+2023-01-15,Inca Kola 500ml,7,40,21.81,2
+2023-01-22,Inca Kola 500ml,12,40,9.5,1
+2023-01-29,Inca Kola 500ml,11,40,20.84,2
+2023-02-05,Inca Kola 500ml,14,40,21.15,2
+2023-02-12,Inca Kola 500ml,15,40,9.21,1
+2023-02-19,Inca Kola 500ml,17,40,15.03,1
+2023-02-26,Inca Kola 500ml,11,40,24.41,1
+2023-03-05,Inca Kola 500ml,8,40,12.62,2
+2023-03-12,Inca Kola 500ml,20,40,17.59,1
+2023-03-19,Inca Kola 500ml,10,40,16.41,2
+2023-03-26,Inca Kola 500ml,9,40,20.97,2
+2023-04-02,Inca Kola 500ml,6,40,24.99,2
+2023-04-09,Inca Kola 500ml,10,40,17.54,1
+2023-04-16,Inca Kola 500ml,10,40,3.45,2
+2023-04-23,Inca Kola 500ml,14,40,23.95,2
+2023-04-30,Inca Kola 500ml,11,40,23.88,1
+2023-05-07,Inca Kola 500ml,13,40,5.26,1
+2023-05-14,Inca Kola 500ml,13,40,24.39,1
+2023-05-21,Inca Kola 500ml,13,40,23.26,1
+2023-05-28,Inca Kola 500ml,9,40,4.14,1
+2023-06-04,Inca Kola 500ml,9,40,24.53,1
+2023-06-11,Inca Kola 500ml,13,40,15.08,1
+2023-06-18,Inca Kola 500ml,10,40,20.3,2
+2023-06-25,Inca Kola 500ml,16,40,20.21,1
+2023-07-02,Inca Kola 500ml,8,40,20.98,1
+2023-07-09,Inca Kola 500ml,11,40,12.45,1
+2023-07-16,Inca Kola 500ml,11,40,5.9,2
+2023-07-23,Inca Kola 500ml,14,40,16.75,2
+2023-07-30,Inca Kola 500ml,15,40,20.53,1
+2023-08-06,Inca Kola 500ml,12,40,6.58,1
+2023-08-13,Inca Kola 500ml,11,40,9.75,1
+2023-08-20,Inca Kola 500ml,10,40,12.47,2
+2023-08-27,Inca Kola 500ml,10,40,20.24,2
+2023-09-03,Inca Kola 500ml,5,40,17.91,1
+2023-09-10,Inca Kola 500ml,4,40,23.78,1
+2023-09-17,Inca Kola 500ml,14,40,24.79,2
+2023-09-24,Inca Kola 500ml,9,40,24.57,2
+2023-10-01,Inca Kola 500ml,6,40,24.54,1
+2023-10-08,Inca Kola 500ml,13,40,12.3,1
+2023-10-15,Inca Kola 500ml,11,40,16.32,2
+2023-10-22,Inca Kola 500ml,11,40,9.32,2
+2023-10-29,Inca Kola 500ml,13,40,16.1,1
+2023-11-05,Inca Kola 500ml,9,40,16.18,2
+2023-11-12,Inca Kola 500ml,6,40,17.12,2
+2023-11-19,Inca Kola 500ml,20,40,17.87,1
+2023-11-26,Inca Kola 500ml,13,40,14.57,1
+2023-12-03,Inca Kola 500ml,18,40,6.41,1
+2023-12-10,Inca Kola 500ml,12,40,4.11,1
+2023-12-17,Inca Kola 500ml,8,40,24.07,2
+2023-12-24,Inca Kola 500ml,13,40,19.27,2
+2023-12-31,Inca Kola 500ml,23,40,3.18,2
+2023-01-01,Pan de molde Bimbo,49,99,8.69,1
+2023-01-08,Pan de molde Bimbo,39,99,24.92,2
+2023-01-15,Pan de molde Bimbo,41,99,8.32,2
+2023-01-22,Pan de molde Bimbo,33,99,21.0,1
+2023-01-29,Pan de molde Bimbo,44,99,8.46,1
+2023-02-05,Pan de molde Bimbo,49,99,12.34,2
+2023-02-12,Pan de molde Bimbo,41,99,4.79,2
+2023-02-19,Pan de molde Bimbo,36,99,11.43,2
+2023-02-26,Pan de molde Bimbo,51,99,7.41,2
+2023-03-05,Pan de molde Bimbo,39,99,24.73,2
+2023-03-12,Pan de molde Bimbo,27,99,23.26,2
+2023-03-19,Pan de molde Bimbo,45,99,22.03,1
+2023-03-26,Pan de molde Bimbo,48,99,20.32,1
+2023-04-02,Pan de molde Bimbo,37,99,17.03,2
+2023-04-09,Pan de molde Bimbo,38,99,17.29,1
+2023-04-16,Pan de molde Bimbo,45,99,14.0,2
+2023-04-23,Pan de molde Bimbo,38,99,9.62,2
+2023-04-30,Pan de molde Bimbo,37,99,3.62,2
+2023-05-07,Pan de molde Bimbo,30,99,12.01,2
+2023-05-14,Pan de molde Bimbo,37,99,5.46,1
+2023-05-21,Pan de molde Bimbo,27,99,17.61,1
+2023-05-28,Pan de molde Bimbo,43,99,12.82,2
+2023-06-04,Pan de molde Bimbo,35,99,8.5,2
+2023-06-11,Pan de molde Bimbo,40,99,19.34,2
+2023-06-18,Pan de molde Bimbo,35,99,23.96,2
+2023-06-25,Pan de molde Bimbo,41,99,8.97,2
+2023-07-02,Pan de molde Bimbo,47,99,11.64,1
+2023-07-09,Pan de molde Bimbo,46,99,14.48,1
+2023-07-16,Pan de molde Bimbo,42,99,21.89,1
+2023-07-23,Pan de molde Bimbo,37,99,9.51,1
+2023-07-30,Pan de molde Bimbo,42,99,18.27,1
+2023-08-06,Pan de molde Bimbo,39,99,19.29,1
+2023-08-13,Pan de molde Bimbo,43,99,14.33,2
+2023-08-20,Pan de molde Bimbo,40,99,12.11,2
+2023-08-27,Pan de molde Bimbo,48,99,10.79,2
+2023-09-03,Pan de molde Bimbo,40,99,7.66,1
+2023-09-10,Pan de molde Bimbo,34,99,11.6,1
+2023-09-17,Pan de molde Bimbo,36,99,15.58,1
+2023-09-24,Pan de molde Bimbo,40,99,12.44,1
+2023-10-01,Pan de molde Bimbo,42,99,19.58,1
+2023-10-08,Pan de molde Bimbo,39,99,22.15,2
+2023-10-15,Pan de molde Bimbo,43,99,23.53,1
+2023-10-22,Pan de molde Bimbo,31,99,7.54,1
+2023-10-29,Pan de molde Bimbo,44,99,20.01,1
+2023-11-05,Pan de molde Bimbo,37,99,20.44,1
+2023-11-12,Pan de molde Bimbo,42,99,22.48,1
+2023-11-19,Pan de molde Bimbo,43,99,3.22,2
+2023-11-26,Pan de molde Bimbo,43,99,13.23,2
+2023-12-03,Pan de molde Bimbo,46,99,10.34,1
+2023-12-10,Pan de molde Bimbo,40,99,21.05,1
+2023-12-17,Pan de molde Bimbo,48,99,4.67,2
+2023-12-24,Pan de molde Bimbo,42,99,9.18,2
+2023-12-31,Pan de molde Bimbo,37,99,24.3,2
+2023-01-01,Huevos AA (x12),11,80,4.54,2
+2023-01-08,Huevos AA (x12),20,80,11.13,1
+2023-01-15,Huevos AA (x12),20,80,10.7,2
+2023-01-22,Huevos AA (x12),24,80,3.12,2
+2023-01-29,Huevos AA (x12),15,80,4.07,2
+2023-02-05,Huevos AA (x12),26,80,20.2,1
+2023-02-12,Huevos AA (x12),20,80,19.69,1
+2023-02-19,Huevos AA (x12),24,80,19.33,1
+2023-02-26,Huevos AA (x12),24,80,11.6,2
+2023-03-05,Huevos AA (x12),29,80,16.14,2
+2023-03-12,Huevos AA (x12),23,80,9.75,1
+2023-03-19,Huevos AA (x12),25,80,7.45,1
+2023-03-26,Huevos AA (x12),17,80,21.95,2
+2023-04-02,Huevos AA (x12),29,80,7.13,1
+2023-04-09,Huevos AA (x12),23,80,12.76,1
+2023-04-16,Huevos AA (x12),24,80,8.98,2
+2023-04-23,Huevos AA (x12),22,80,19.46,1
+2023-04-30,Huevos AA (x12),19,80,7.2,2
+2023-05-07,Huevos AA (x12),19,80,21.12,2
+2023-05-14,Huevos AA (x12),24,80,20.12,1
+2023-05-21,Huevos AA (x12),26,80,6.31,2
+2023-05-28,Huevos AA (x12),18,80,3.86,2
+2023-06-04,Huevos AA (x12),26,80,7.42,2
+2023-06-11,Huevos AA (x12),27,80,15.69,2
+2023-06-18,Huevos AA (x12),27,80,3.13,1
+2023-06-25,Huevos AA (x12),18,80,12.05,1
+2023-07-02,Huevos AA (x12),28,80,3.3,2
+2023-07-09,Huevos AA (x12),24,80,3.32,2
+2023-07-16,Huevos AA (x12),30,80,9.8,1
+2023-07-23,Huevos AA (x12),27,80,15.39,2
+2023-07-30,Huevos AA (x12),21,80,11.59,2
+2023-08-06,Huevos AA (x12),21,80,11.56,2
+2023-08-13,Huevos AA (x12),23,80,11.34,2
+2023-08-20,Huevos AA (x12),20,80,7.66,1
+2023-08-27,Huevos AA (x12),21,80,21.94,2
+2023-09-03,Huevos AA (x12),25,80,4.17,1
+2023-09-10,Huevos AA (x12),27,80,22.0,2
+2023-09-17,Huevos AA (x12),32,80,14.01,1
+2023-09-24,Huevos AA (x12),13,80,19.45,1
+2023-10-01,Huevos AA (x12),23,80,18.51,2
+2023-10-08,Huevos AA (x12),23,80,23.87,2
+2023-10-15,Huevos AA (x12),23,80,21.44,2
+2023-10-22,Huevos AA (x12),28,80,21.34,2
+2023-10-29,Huevos AA (x12),30,80,16.04,2
+2023-11-05,Huevos AA (x12),23,80,4.46,2
+2023-11-12,Huevos AA (x12),14,80,22.38,2
+2023-11-19,Huevos AA (x12),25,80,14.03,1
+2023-11-26,Huevos AA (x12),29,80,19.22,2
+2023-12-03,Huevos AA (x12),29,80,7.41,1
+2023-12-10,Huevos AA (x12),29,80,24.41,2
+2023-12-17,Huevos AA (x12),31,80,5.81,2
+2023-12-24,Huevos AA (x12),31,80,11.48,2
+2023-12-31,Huevos AA (x12),21,80,13.45,2
+2023-01-01,Sal Lobos,18,24,14.66,1
+2023-01-08,Sal Lobos,27,24,20.56,2
+2023-01-15,Sal Lobos,30,24,3.45,2
+2023-01-22,Sal Lobos,24,24,17.83,2
+2023-01-29,Sal Lobos,46,24,22.76,2
+2023-02-05,Sal Lobos,25,24,6.41,1
+2023-02-12,Sal Lobos,20,24,18.55,2
+2023-02-19,Sal Lobos,33,24,15.78,2
+2023-02-26,Sal Lobos,25,24,3.07,2
+2023-03-05,Sal Lobos,28,24,13.11,1
+2023-03-12,Sal Lobos,26,24,9.2,2
+2023-03-19,Sal Lobos,27,24,15.63,1
+2023-03-26,Sal Lobos,23,24,5.78,1
+2023-04-02,Sal Lobos,26,24,13.77,2
+2023-04-09,Sal Lobos,30,24,18.11,2
+2023-04-16,Sal Lobos,26,24,11.95,1
+2023-04-23,Sal Lobos,31,24,14.3,2
+2023-04-30,Sal Lobos,22,24,15.74,2
+2023-05-07,Sal Lobos,35,24,24.35,2
+2023-05-14,Sal Lobos,26,24,6.11,2
+2023-05-21,Sal Lobos,34,24,21.79,1
+2023-05-28,Sal Lobos,21,24,20.55,1
+2023-06-04,Sal Lobos,36,24,19.05,1
+2023-06-11,Sal Lobos,33,24,17.8,1
+2023-06-18,Sal Lobos,24,24,14.48,1
+2023-06-25,Sal Lobos,24,24,22.15,2
+2023-07-02,Sal Lobos,17,24,8.11,2
+2023-07-09,Sal Lobos,27,24,5.06,2
+2023-07-16,Sal Lobos,24,24,23.78,2
+2023-07-23,Sal Lobos,23,24,22.99,1
+2023-07-30,Sal Lobos,31,24,19.73,1
+2023-08-06,Sal Lobos,32,24,21.21,1
+2023-08-13,Sal Lobos,31,24,4.0,1
+2023-08-20,Sal Lobos,28,24,23.03,2
+2023-08-27,Sal Lobos,33,24,16.78,2
+2023-09-03,Sal Lobos,29,24,21.46,1
+2023-09-10,Sal Lobos,33,24,7.74,2
+2023-09-17,Sal Lobos,20,24,9.18,2
+2023-09-24,Sal Lobos,31,24,7.4,1
+2023-10-01,Sal Lobos,32,24,20.0,2
+2023-10-08,Sal Lobos,29,24,21.37,2
+2023-10-15,Sal Lobos,26,24,3.42,2
+2023-10-22,Sal Lobos,27,24,9.22,1
+2023-10-29,Sal Lobos,25,24,24.15,1
+2023-11-05,Sal Lobos,29,24,7.23,2
+2023-11-12,Sal Lobos,35,24,9.1,1
+2023-11-19,Sal Lobos,25,24,17.92,1
+2023-11-26,Sal Lobos,31,24,24.78,2
+2023-12-03,Sal Lobos,24,24,9.89,2
+2023-12-10,Sal Lobos,24,24,21.36,1
+2023-12-17,Sal Lobos,27,24,6.63,1
+2023-12-24,Sal Lobos,22,24,6.31,2
+2023-12-31,Sal Lobos,27,24,7.17,2
+2023-01-01,Mayonesa Alacena,15,40,6.9,2
+2023-01-08,Mayonesa Alacena,5,40,7.67,1
+2023-01-15,Mayonesa Alacena,10,40,21.83,2
+2023-01-22,Mayonesa Alacena,11,40,8.98,1
+2023-01-29,Mayonesa Alacena,14,40,21.09,1
+2023-02-05,Mayonesa Alacena,16,40,9.33,1
+2023-02-12,Mayonesa Alacena,21,40,19.15,1
+2023-02-19,Mayonesa Alacena,9,40,15.03,1
+2023-02-26,Mayonesa Alacena,5,40,3.33,1
+2023-03-05,Mayonesa Alacena,14,40,22.76,2
+2023-03-12,Mayonesa Alacena,7,40,20.16,2
+2023-03-19,Mayonesa Alacena,14,40,5.61,1
+2023-03-26,Mayonesa Alacena,14,40,22.71,2
+2023-04-02,Mayonesa Alacena,16,40,17.49,2
+2023-04-09,Mayonesa Alacena,10,40,20.37,2
+2023-04-16,Mayonesa Alacena,11,40,21.01,2
+2023-04-23,Mayonesa Alacena,16,40,20.21,2
+2023-04-30,Mayonesa Alacena,11,40,4.16,2
+2023-05-07,Mayonesa Alacena,13,40,24.77,1
+2023-05-14,Mayonesa Alacena,10,40,10.9,1
+2023-05-21,Mayonesa Alacena,16,40,22.71,2
+2023-05-28,Mayonesa Alacena,11,40,10.22,2
+2023-06-04,Mayonesa Alacena,9,40,10.88,1
+2023-06-11,Mayonesa Alacena,17,40,11.38,1
+2023-06-18,Mayonesa Alacena,14,40,20.19,1
+2023-06-25,Mayonesa Alacena,11,40,5.61,2
+2023-07-02,Mayonesa Alacena,7,40,16.24,1
+2023-07-09,Mayonesa Alacena,13,40,6.55,2
+2023-07-16,Mayonesa Alacena,14,40,23.42,2
+2023-07-23,Mayonesa Alacena,6,40,5.56,1
+2023-07-30,Mayonesa Alacena,16,40,18.25,1
+2023-08-06,Mayonesa Alacena,11,40,11.87,2
+2023-08-13,Mayonesa Alacena,5,40,12.64,1
+2023-08-20,Mayonesa Alacena,10,40,10.81,1
+2023-08-27,Mayonesa Alacena,13,40,9.12,1
+2023-09-03,Mayonesa Alacena,12,40,6.45,2
+2023-09-10,Mayonesa Alacena,19,40,7.84,2
+2023-09-17,Mayonesa Alacena,18,40,8.09,2
+2023-09-24,Mayonesa Alacena,23,40,9.89,2
+2023-10-01,Mayonesa Alacena,19,40,16.86,1
+2023-10-08,Mayonesa Alacena,7,40,3.95,1
+2023-10-15,Mayonesa Alacena,12,40,21.14,1
+2023-10-22,Mayonesa Alacena,15,40,23.75,1
+2023-10-29,Mayonesa Alacena,12,40,23.13,2
+2023-11-05,Mayonesa Alacena,12,40,15.04,1
+2023-11-12,Mayonesa Alacena,11,40,10.15,1
+2023-11-19,Mayonesa Alacena,14,40,18.68,2
+2023-11-26,Mayonesa Alacena,23,40,19.02,1
+2023-12-03,Mayonesa Alacena,17,40,12.69,1
+2023-12-10,Mayonesa Alacena,12,40,8.85,1
+2023-12-17,Mayonesa Alacena,9,40,12.48,1
+2023-12-24,Mayonesa Alacena,20,40,16.7,1
+2023-12-31,Mayonesa Alacena,12,40,23.17,1
+2023-01-01,Café Altomayo,26,112,19.66,2
+2023-01-08,Café Altomayo,36,112,10.49,1
+2023-01-15,Café Altomayo,34,112,8.14,1
+2023-01-22,Café Altomayo,29,112,9.16,2
+2023-01-29,Café Altomayo,42,112,4.11,1
+2023-02-05,Café Altomayo,31,112,21.88,1
+2023-02-12,Café Altomayo,33,112,20.32,1
+2023-02-19,Café Altomayo,27,112,11.01,2
+2023-02-26,Café Altomayo,28,112,8.97,1
+2023-03-05,Café Altomayo,25,112,7.28,2
+2023-03-12,Café Altomayo,31,112,20.72,1
+2023-03-19,Café Altomayo,29,112,4.93,2
+2023-03-26,Café Altomayo,23,112,10.42,2
+2023-04-02,Café Altomayo,28,112,10.3,1
+2023-04-09,Café Altomayo,20,112,12.73,1
+2023-04-16,Café Altomayo,32,112,15.16,1
+2023-04-23,Café Altomayo,33,112,19.72,2
+2023-04-30,Café Altomayo,33,112,10.62,2
+2023-05-07,Café Altomayo,30,112,4.25,2
+2023-05-14,Café Altomayo,33,112,20.66,1
+2023-05-21,Café Altomayo,34,112,22.49,2
+2023-05-28,Café Altomayo,29,112,5.45,2
+2023-06-04,Café Altomayo,27,112,21.17,1
+2023-06-11,Café Altomayo,33,112,4.0,1
+2023-06-18,Café Altomayo,36,112,17.77,1
+2023-06-25,Café Altomayo,31,112,5.58,2
+2023-07-02,Café Altomayo,37,112,15.71,1
+2023-07-09,Café Altomayo,37,112,12.82,2
+2023-07-16,Café Altomayo,29,112,21.71,2
+2023-07-23,Café Altomayo,28,112,5.19,1
+2023-07-30,Café Altomayo,27,112,8.57,2
+2023-08-06,Café Altomayo,32,112,9.33,2
+2023-08-13,Café Altomayo,35,112,10.14,2
+2023-08-20,Café Altomayo,37,112,3.03,2
+2023-08-27,Café Altomayo,28,112,7.98,2
+2023-09-03,Café Altomayo,44,112,17.55,2
+2023-09-10,Café Altomayo,27,112,5.88,2
+2023-09-17,Café Altomayo,24,112,5.5,2
+2023-09-24,Café Altomayo,29,112,23.43,2
+2023-10-01,Café Altomayo,24,112,16.7,1
+2023-10-08,Café Altomayo,28,112,16.89,1
+2023-10-15,Café Altomayo,35,112,13.84,2
+2023-10-22,Café Altomayo,33,112,14.01,2
+2023-10-29,Café Altomayo,33,112,5.8,2
+2023-11-05,Café Altomayo,42,112,6.15,2
+2023-11-12,Café Altomayo,34,112,21.43,2
+2023-11-19,Café Altomayo,44,112,3.02,1
+2023-11-26,Café Altomayo,29,112,12.73,2
+2023-12-03,Café Altomayo,36,112,17.63,2
+2023-12-10,Café Altomayo,24,112,20.9,1
+2023-12-17,Café Altomayo,34,112,11.84,2
+2023-12-24,Café Altomayo,28,112,22.61,1
+2023-12-31,Café Altomayo,36,112,8.6,2
+2023-01-01,Shampoo Sedal,28,46,4.87,1
+2023-01-08,Shampoo Sedal,25,46,24.75,1
+2023-01-15,Shampoo Sedal,23,46,9.93,1
+2023-01-22,Shampoo Sedal,18,46,22.61,1
+2023-01-29,Shampoo Sedal,32,46,9.73,1
+2023-02-05,Shampoo Sedal,27,46,16.03,2
+2023-02-12,Shampoo Sedal,20,46,5.82,1
+2023-02-19,Shampoo Sedal,20,46,8.65,1
+2023-02-26,Shampoo Sedal,34,46,19.07,1
+2023-03-05,Shampoo Sedal,32,46,19.88,2
+2023-03-12,Shampoo Sedal,26,46,21.7,1
+2023-03-19,Shampoo Sedal,22,46,14.52,1
+2023-03-26,Shampoo Sedal,27,46,14.91,2
+2023-04-02,Shampoo Sedal,29,46,24.46,1
+2023-04-09,Shampoo Sedal,28,46,17.03,1
+2023-04-16,Shampoo Sedal,37,46,8.98,2
+2023-04-23,Shampoo Sedal,23,46,16.5,1
+2023-04-30,Shampoo Sedal,18,46,24.92,2
+2023-05-07,Shampoo Sedal,30,46,10.89,1
+2023-05-14,Shampoo Sedal,27,46,23.33,1
+2023-05-21,Shampoo Sedal,31,46,10.29,2
+2023-05-28,Shampoo Sedal,30,46,11.14,1
+2023-06-04,Shampoo Sedal,23,46,15.86,1
+2023-06-11,Shampoo Sedal,24,46,13.27,1
+2023-06-18,Shampoo Sedal,27,46,17.48,1
+2023-06-25,Shampoo Sedal,19,46,23.7,1
+2023-07-02,Shampoo Sedal,20,46,12.13,2
+2023-07-09,Shampoo Sedal,29,46,13.06,2
+2023-07-16,Shampoo Sedal,17,46,23.69,2
+2023-07-23,Shampoo Sedal,20,46,6.97,1
+2023-07-30,Shampoo Sedal,29,46,11.83,2
+2023-08-06,Shampoo Sedal,24,46,17.86,2
+2023-08-13,Shampoo Sedal,31,46,4.29,1
+2023-08-20,Shampoo Sedal,19,46,8.59,2
+2023-08-27,Shampoo Sedal,28,46,15.45,2
+2023-09-03,Shampoo Sedal,21,46,22.33,1
+2023-09-10,Shampoo Sedal,21,46,16.1,1
+2023-09-17,Shampoo Sedal,27,46,13.34,1
+2023-09-24,Shampoo Sedal,33,46,13.49,2
+2023-10-01,Shampoo Sedal,36,46,9.75,1
+2023-10-08,Shampoo Sedal,37,46,22.25,1
+2023-10-15,Shampoo Sedal,24,46,16.27,2
+2023-10-22,Shampoo Sedal,25,46,15.77,1
+2023-10-29,Shampoo Sedal,21,46,16.59,1
+2023-11-05,Shampoo Sedal,32,46,5.91,1
+2023-11-12,Shampoo Sedal,29,46,5.56,2
+2023-11-19,Shampoo Sedal,28,46,11.43,1
+2023-11-26,Shampoo Sedal,35,46,7.33,1
+2023-12-03,Shampoo Sedal,33,46,10.77,1
+2023-12-10,Shampoo Sedal,17,46,23.58,2
+2023-12-17,Shampoo Sedal,32,46,12.11,2
+2023-12-24,Shampoo Sedal,34,46,12.13,1
+2023-12-31,Shampoo Sedal,29,46,7.07,2
+2023-01-01,Yogurt Laive,7,101,19.33,1
+2023-01-08,Yogurt Laive,7,101,14.13,1
+2023-01-15,Yogurt Laive,6,101,23.19,1
+2023-01-22,Yogurt Laive,5,101,21.53,2
+2023-01-29,Yogurt Laive,10,101,23.42,1
+2023-02-05,Yogurt Laive,3,101,17.12,1
+2023-02-12,Yogurt Laive,6,101,24.29,2
+2023-02-19,Yogurt Laive,8,101,13.45,1
+2023-02-26,Yogurt Laive,13,101,7.29,2
+2023-03-05,Yogurt Laive,11,101,14.43,2
+2023-03-12,Yogurt Laive,7,101,5.81,1
+2023-03-19,Yogurt Laive,9,101,15.18,1
+2023-03-26,Yogurt Laive,5,101,18.39,1
+2023-04-02,Yogurt Laive,11,101,3.14,2
+2023-04-09,Yogurt Laive,5,101,15.62,1
+2023-04-16,Yogurt Laive,7,101,21.96,1
+2023-04-23,Yogurt Laive,9,101,20.4,2
+2023-04-30,Yogurt Laive,7,101,14.4,2
+2023-05-07,Yogurt Laive,7,101,8.85,1
+2023-05-14,Yogurt Laive,12,101,22.74,1
+2023-05-21,Yogurt Laive,2,101,7.61,1
+2023-05-28,Yogurt Laive,15,101,5.88,2
+2023-06-04,Yogurt Laive,10,101,14.51,2
+2023-06-11,Yogurt Laive,11,101,5.4,2
+2023-06-18,Yogurt Laive,11,101,4.18,2
+2023-06-25,Yogurt Laive,13,101,21.89,1
+2023-07-02,Yogurt Laive,10,101,7.28,1
+2023-07-09,Yogurt Laive,14,101,22.34,2
+2023-07-16,Yogurt Laive,7,101,18.29,2
+2023-07-23,Yogurt Laive,6,101,24.47,2
+2023-07-30,Yogurt Laive,5,101,5.68,1
+2023-08-06,Yogurt Laive,9,101,21.05,2
+2023-08-13,Yogurt Laive,9,101,3.04,1
+2023-08-20,Yogurt Laive,4,101,23.13,2
+2023-08-27,Yogurt Laive,10,101,19.37,1
+2023-09-03,Yogurt Laive,5,101,7.18,2
+2023-09-10,Yogurt Laive,10,101,3.83,1
+2023-09-17,Yogurt Laive,10,101,11.88,1
+2023-09-24,Yogurt Laive,6,101,14.83,1
+2023-10-01,Yogurt Laive,9,101,23.97,2
+2023-10-08,Yogurt Laive,10,101,3.94,1
+2023-10-15,Yogurt Laive,7,101,14.26,1
+2023-10-22,Yogurt Laive,13,101,12.84,2
+2023-10-29,Yogurt Laive,8,101,9.03,1
+2023-11-05,Yogurt Laive,15,101,12.91,1
+2023-11-12,Yogurt Laive,9,101,16.12,2
+2023-11-19,Yogurt Laive,14,101,14.38,1
+2023-11-26,Yogurt Laive,5,101,16.42,1
+2023-12-03,Yogurt Laive,7,101,8.4,2
+2023-12-10,Yogurt Laive,11,101,23.16,2
+2023-12-17,Yogurt Laive,3,101,14.04,2
+2023-12-24,Yogurt Laive,9,101,24.15,2
+2023-12-31,Yogurt Laive,15,101,19.39,1
