@@ -16,8 +16,6 @@ tab1, tab2 = st.tabs(["📊 Entrenamiento del modelo", "🔮 Predicción"])
 # Ruta al dataset generado
 DATA_PATH = "ventas.csv"
 
-
-
 # Instanciar el servicio
 service = PredictorService(DATA_PATH, model_choice)
 
@@ -44,10 +42,35 @@ with tab2:
     st.info(f"📌 Predicciones generadas con modelo: **{model_choice}**")
     if st.button("📈 Predecir demanda"):
         with st.spinner("Generando predicciones..."):
+         # 🔄 Generamos las predicciones de demanda
             predictions = service.predict_from_file()
+
+            # 📥 Cargamos las ventas históricas (cantidad vendida, NO es stock)
             df = pd.read_csv(DATA_PATH)
+
+            # 🎯 Agregamos la predicción al dataframe para comparar
             df['prediccion'] = predictions
-            st.dataframe(df[['fecha', 'producto_id', 'cantidad', 'prediccion']])
+
+            # 🚨 Importante aclaración:
+            # - 'cantidad' = Lo que se vendió realmente (histórico de ventas)
+            # - 'prediccion' = Lo que el modelo estima que venderás próximamente
+            # - 'stock' = Lo que tienes actualmente en inventario
+
+            # 🔍 Mostramos la tabla comparativa al cliente
+            st.subheader("📊 Comparativo de Ventas Reales vs Predicción de Demanda")
+            st.write("""
+            **Interpretación:**
+
+            - **Cantidad** → Es lo que ya se vendió en el periodo anterior.
+            - **Predicción** → Es lo que el sistema estima que se venderá próximamente.
+            - **Stock** → Es el inventario actual (se usa después para decidir compras).
+
+            Si la **predicción es mayor al stock**, se debería comprar más.
+
+            """)
+
+            st.dataframe(df[['fecha', 'producto_id', 'cantidad', 'prediccion', 'stock']])
+
             
             # Mostrar gráfico comparativo
             st.subheader("📊 Comparación visual de cantidad vs predicción")

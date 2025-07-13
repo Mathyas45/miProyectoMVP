@@ -7,6 +7,7 @@ class BaseModel(ABC):
     """
     Principio SOLID aplicado: Interface Segregation & Dependency Inversion
     Define una interfaz clara para cualquier modelo ML que se desee usar.
+    Adapter para modelos específicos como XGBoost o Random Forest.
     """
 
     @abstractmethod
